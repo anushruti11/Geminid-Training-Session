@@ -68,21 +68,4 @@ running Dockerized nginx web server
 names.
 
 
-### Open source Project Update-
-
-> This project is an event organiser app.
-All of the issues mentioned below are
-of this project only.
-
-1.https://github.com/fossasia/open-event-organizer-android/issues/2054 
- This issue is regarding adding a feature
-for the ease of the users.I will try 
-working on this.
-
-2.https://github.com/fossasia/open-event-organizer-android/issues/2007
-This is a bug.
-
-3.https://github.com/fossasia/open-event-organizer-android/issues/2105
-This also is regarding adding a feature.
-
 
